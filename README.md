@@ -1,1 +1,1 @@
-# apexplanettask-3
+This project demonstrates advanced front-end web development concepts using HTML, CSS, and JavaScript. It combines responsive web design, interactive user interfaces, and API integration into a single application.
